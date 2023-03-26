@@ -31,7 +31,7 @@ import React from 'react';
             readOnly={true}
             name="title"
             placeholder="Input title"
-           style={{ background: 'red' }}
+           style={{ background: 'pink' }}
           />
         </label>
   
